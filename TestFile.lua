@@ -1,1 +1,2 @@
-Omg this works
+local WORKING = true
+print(WORKING)
