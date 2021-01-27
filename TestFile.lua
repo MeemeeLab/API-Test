@@ -1,2 +1,2 @@
 local WORKING = true
-print(WORKING)
+print(not WORKING)
